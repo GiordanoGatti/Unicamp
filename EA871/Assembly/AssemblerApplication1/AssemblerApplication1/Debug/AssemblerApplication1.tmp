@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>7</LINE></main>
+  <loop><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>9</LINE></loop>
+  <atraso><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>21</LINE></atraso>
+  <inicio0><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>34</LINE></inicio0>
+  <inicio><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>39</LINE></inicio>
+  <incremento1><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>44</LINE></incremento1>
+  <fim1><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>52</LINE></fim1>
+  <incremento2><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>48</LINE></incremento2>
+  <decremento1><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>55</LINE></decremento1>
+  <decremento2><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>57</LINE></decremento2>
+  <fim2><FILE>C:\Users\Daniela Gatti\Documents\UNICAMP\EA871\experimento 4\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>62</LINE></fim2>
+ </LABELS>
+</ASSEMBLER_INFO>
