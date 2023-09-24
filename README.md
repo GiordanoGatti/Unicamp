@@ -3,7 +3,7 @@
 <img src="https://www.fee.unicamp.br/wp-content/uploads/2021/03/feec_2logo_feec_184x73.png" alt="feec" style="width:15%">
 </p>
 
-Here you can find some projects developed during my undergratuate studies in electrical engineering at Campinas State university in Brazil. The projects are separated by its respective courses which are listed below. 
+Here you will find some projects developed during my undergraduate studies in electrical engineering at the State University of Campinas, in Brazil. The projects are separated by their respective courses, listed below.
 
 <table>
   <tr>
