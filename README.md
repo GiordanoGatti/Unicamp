@@ -7,7 +7,7 @@ Here you will find some projects developed during my undergraduate studies in el
 
 <table>
   <tr>
-    <th>course code</th>
+    <th>Course Code</th>
     <th>Course Name</th>
   </tr>
   <tr>
