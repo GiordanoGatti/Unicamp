@@ -1,6 +1,6 @@
 <p>
 <img src="https://www.ige.unicamp.br/pesquisadapesquisa/wp-content/uploads/sites/63/2022/10/logo-unicamp_negativo_220921.png" alt="Unicamp" style="width:10%"> 
-<img src="[https://www.fee.unicamp.br/wp-content/uploads/2021/03/feec_2logo_feec_184x73.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwMQ7d3qb8KLrfpiLv69ciw6DpIP2uEMicww&s)" alt="feec" style="width:15%">
+<img src="https://www.fee.unicamp.br/wp-content/uploads/2024/11/logotipo-feec.svg" alt="feec" style="width:15%">
 </p>
 
 Here you will find some projects developed during my undergraduate studies in electrical engineering at the State University of Campinas, in Brazil. The projects are separated by their respective courses, listed below.
